@@ -1,0 +1,17 @@
+section {
+    display: flex;
+    flex-flow: column wrap;
+    position: relative;
+    height: 25vh;
+    border-bottom: solid 0.5px;
+    border-color: var(--color-water-10);
+  }
+
+  .card_date {
+    align-self: center;
+  }
+  
+  .card_title {
+    margin-top: 20px;
+    align-self: start;
+  }

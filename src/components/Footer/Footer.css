@@ -1,0 +1,14 @@
+footer {
+    position: fixed;
+    bottom: 0px;
+    width: 110%;
+    height: 55px;
+    background-color: var(--color-granite);
+    
+  }
+  
+  .footer_text {
+    text-align: center;
+    margin-top: 18px;
+    color: var(--color-foam);
+  }
