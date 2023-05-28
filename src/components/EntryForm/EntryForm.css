@@ -18,8 +18,8 @@ h2 {
     font-size: larger;
   }
   
-  textarea {
-    border-color: var(--color-water-10);
+  input, textarea {
+    border: 2px solid var(--color-water-10);
     border-radius: 5px;
   }
 
