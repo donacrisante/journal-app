@@ -4,8 +4,8 @@ export default function Tabs() {
     return (
         <>
             <div className="tab-bar">
-                <p className="entry_tab">All entries</p>
-                <p className="favourite_tab">Favourites</p>
+                <p className="entries_tab">All entries <span className="entries_badge">3</span></p>
+                <p className="favourites_tab">Favourites <span className="favourites_badge">1</span></p>
             </div>
         </>
     );

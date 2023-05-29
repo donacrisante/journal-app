@@ -1,6 +1,6 @@
 section {
     display: flex;
-    flex-flow: column wrap;
+    flex-flow: column;
     position: relative;
     height: 25vh;
     border-bottom: solid 0.5px;
@@ -14,4 +14,10 @@ section {
   .card_title {
     margin-top: 20px;
     align-self: start;
+  }
+
+  svg {
+    position: absolute;
+    left: 300px;
+    top: 65px;
   }
