@@ -2,8 +2,7 @@ import "./EntryForm.css";
 
 export default function EntryForm() {
      return (
-        <>
-                    
+        <>        
             <form>
                 <h2 className="form_title">NEW ENTRY</h2>
                 <label htmlFor="motto">Motto</label>

@@ -1,11 +1,14 @@
-import EntryForm from "./EntryForm.jsx";
-import EntrySection from "./EntrySection.jsx";
+/* import EntryForm from "./EntryForm.jsx";
+import Tabs from "./Tabs.jsx";
+import EntryList from "./EntryList.jsx";
+
 
 export default function MainSection() {
     return (
         <main>
             <EntryForm />
-            <EntrySection />
+            <Tabs />
+            <EntryList />
         </main>
     );
-}
+} */
