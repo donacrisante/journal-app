@@ -1,7 +1,7 @@
 import "./EntryList.css";
-import { ReactComponent as StarFilled } from "../FavouriteIcon/star-filled.svg";
-import { ReactComponent as Star } from "../FavouriteIcon/star.svg";
-import { useState } from "react";
+import StarFilled from "./StarFilled.jsx";
+import Star from "./Star.jsx";
+/* import { useState } from "react"; */
 
 export default function EntryList() {
   return (
